@@ -13,4 +13,3 @@ jQuery plugin to generate a functional calendar widget. Simple and lightweight.
 
 
 
-
