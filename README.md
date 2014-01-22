@@ -5,7 +5,7 @@ jQuery plugin to generate a functional calendar widget. Simple and lightweight. 
 - Support for JSON data from custom REST API's.
 - Extensible
 
-![alt tag](https://raw.github.com/peec/jquery-calendar/master/screenshot.png)
+![alt tag](https://raw2.github.com/peec/jquery-calendar/master/screenshot.png)
 
 
 ## Usage:
