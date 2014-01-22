@@ -52,7 +52,7 @@ Contains available languages.
 
 Used to get data of available events on the currently selected month. This must always be provided if you want your calendar days to be clickable. 
 
-Call the `callback` function once data is loaded and provide the array into the first argument to callback.
+Call the `callback` function once data is loaded and provide the array into the first argument to callback. The array given to callback can be empty or contain objects. The object must contain atleast `name` and `day` (day from 1-31).  
 
 Datasource can be set to `null` if you don't want any fetching of calendar events based on the month shown in the calendar.
 
